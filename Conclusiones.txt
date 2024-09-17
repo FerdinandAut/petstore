@@ -1,0 +1,13 @@
+
+1. Se aplica la automatización de servicios con karate que es una herramienta recomendada para este tipo de pruebas.
+
+2. En el proyecto se puden apreciar distintos tipos de metodos en los servicios como POST, GET y las diferentes formas
+   que se tienen de enviar variables a los servicios, tomandolas desde archivos en el feature directamente.
+
+3. El proyecto sirve de base para estudio de la automatizacion de servicios con variedad de ejemplos
+
+4. La pagina elegida para el reto, es muy didactica para poder aprender sobre servicios y permite probar gran cantidad de convinaciones
+
+
+
+
